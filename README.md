@@ -1,6 +1,6 @@
 ## Olá! Sou Davi Ramos 😁
 
-💻 Front-end Developer Student - JavaScript | HTLM5 | CSS3
+💻 Front-end Developer Student - HTML5 | CSS3 | JavaScript 
 
  <div>
   <a href="https://github.com/daviramosf">
