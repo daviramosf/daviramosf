@@ -1,4 +1,4 @@
-## Olá! Sou Davi Ramos 😁
+## Hi! i'm Davi Ramos 😁
 
 💻 Front-end Developer Student - HTML5 | CSS3 | JavaScript 
 
