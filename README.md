@@ -1,6 +1,8 @@
-## Hi! I'm Davi Ramos 😁
+## Hello there! I'm Davi Ramos 😁
 
-💻 Front-end Developer Student - HTML5 | CSS3 | JavaScript 
+💻 Analysis and Systems development student 
+🎲 Data Analysis 
+
 
  <div>
   <a href="https://github.com/daviramosf">
@@ -11,6 +13,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Python" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)">
 </div>
  
  <br>
