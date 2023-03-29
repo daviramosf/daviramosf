@@ -2,6 +2,14 @@
 
 💻 Analysis and Systems development student
 
+import Developer from 'daviramosf';
+class AboutMe extends Developer {
+  name     = 'Davi Ramos Ferreira';
+  area    = 'Front-End';
+  job  = 'Loading...';
+  country = 'Brazil';
+  state = 'Pernambuco';
+}
 
  <div>
   <a href="https://github.com/daviramosf">
