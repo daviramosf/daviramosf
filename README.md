@@ -1,8 +1,10 @@
 ## Hello there! I'm Davi Ramos 😁
 
 🌱 Estudando SQL e Python
+
 💻 Cursando Análise e desenvolvimento de sistemas
-🔄 Migrande de Front-End para Data Science 
+
+🔄 Migrando de Front-End para Data Science 
 
  <div>
   <a href="https://github.com/daviramosf">
