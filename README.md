@@ -2,7 +2,7 @@
 
 📚 Studying Python
 
-💻 Studying systems analysis and development at UniFavip Wyden
+💻 Graduating in systems analysis and development at UniFavip Wyden
 
 🔄 Migrating from Front-End to Data Science
 
