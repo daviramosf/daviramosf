@@ -1,10 +1,10 @@
 ## Hello there! I'm Davi Ramos 😁
 
-📚 Estudando Python 
+📚 Studying Python
 
-💻 Cursando Análise e desenvolvimento de sistemas
+💻 Studying systems analysis and development at UniFavip Wyden
 
-🔄 Migrando de Front-End para Data Science 
+🔄 Migrating from Front-End to Data Science
 
  <div>
   <a href="https://github.com/daviramosf">
