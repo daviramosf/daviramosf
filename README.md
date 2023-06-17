@@ -1,6 +1,6 @@
 ## Hello there! I'm Davi Ramos 😁
 
-🌱 Estudando Python 
+📚 Estudando Python 
 
 💻 Cursando Análise e desenvolvimento de sistemas
 
