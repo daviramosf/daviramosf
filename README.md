@@ -2,7 +2,7 @@
 
 💻 Graduando em Análise e Desenvolvimento de Sistemas pela UniFavip Wyden.
 
-🔁 Migrando de Front-End para Bakc-end.
+🔁 Migrando de Front-End para Back-End.
 
  <div>
   <a href="https://github.com/daviramosf">
