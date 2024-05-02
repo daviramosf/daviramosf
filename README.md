@@ -1,6 +1,7 @@
-## Hello there! I'm Davi Ramos 😁
+## OLá! Me chamo Davi Ramos 😁
 
-💻 Graduating in systems analysis and development at UniFavip Wyden
+💻 Grudando em Análise e Desenvolvimento de Sistemas pela UniFavip Wyden
+🔁 Migrando de Front-End para Bakc-end
 
  <div>
   <a href="https://github.com/daviramosf">
@@ -20,6 +21,4 @@
   <a href="https://instagram.com/daviramos.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:davi.ramosf09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/daviramosf/daviramosf/blob/output/github-contribution-grid-snake.svg)
-
 </div>
