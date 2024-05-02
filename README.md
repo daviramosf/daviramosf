@@ -1,7 +1,7 @@
-## OLá! Me chamo Davi Ramos 😁
+## Olá! Me chamo Davi Ramos 😁
 
-💻 Grudando em Análise e Desenvolvimento de Sistemas pela UniFavip Wyden
-🔁 Migrando de Front-End para Bakc-end
+💻 Graduando em Análise e Desenvolvimento de Sistemas pela UniFavip Wyden.
+🔁 Migrando de Front-End para Bakc-end.
 
  <div>
   <a href="https://github.com/daviramosf">
